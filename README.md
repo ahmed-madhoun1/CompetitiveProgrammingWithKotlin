@@ -21,10 +21,10 @@ Welcome to the **Kotlin Coding Challenges** repository! Here, you'll find soluti
 ## **📂 Directory Structure**  
 The repository is organized as follows:
 
-├── Easy/         # Solutions for easy problems
-├── Medium/       # Solutions for medium problems
-├── Hard/         # Solutions for hard problems
-└── README.md     # This file
+├── Easy/# Solutions for easy problems
+├── Medium/# Solutions for medium problems
+├── Hard/# Solutions for hard problems
+└── README.md # This file
 
 ---
 
@@ -34,7 +34,8 @@ Contributions are welcome! If you’d like to add solutions, suggest improvement
 ---
 
 ## **🔗 Connect with Me**  
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/)  
-- **GitHub**: [Your Profile](https://github.com/)  
+- **LinkedIn**: [Your Profile](www.linkedin.com/in/
+ahmed-madhoun1)  
+- **GitHub**: [Your Profile](https://github.com/ahmed-madhoun1)  
 
 Happy Coding! 👨‍💻✨
