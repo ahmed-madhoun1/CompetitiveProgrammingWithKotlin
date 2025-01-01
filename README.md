@@ -1,25 +1,40 @@
-# CompetitiveProgrammingWithKotlin
+# **Kotlin Coding Challenges** 🚀📚  
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [ahmed-madhoun1][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Welcome to the **Kotlin Coding Challenges** repository! Here, you'll find solutions to a variety of coding problems written in Kotlin. This repository serves as a documentation of my problem-solving journey and showcases clean, efficient, and well-commented code.  
 
-In this repository, ahmed-madhoun1 is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+---
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+## **📋 Features**  
+- 💡 **Diverse Topics**: Solutions cover a wide range of algorithmic and data structure problems.  
+- 🟢 **Difficulty Levels**: Problems range from Easy to Hard.  
+- 🔄 **Regular Updates**: New challenges and solutions are added frequently.  
+- ✅ **Well-Commented Code**: Clear explanations for each step of the solution.  
 
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
+---
 
+## **🛠️ Technologies Used**  
+- **Kotlin**: All solutions are implemented in Kotlin.  
+- **IDE**: Developed using IntelliJ IDEA or Android Studio for a seamless coding experience.  
 
-[^aoc]:
-    [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
-    Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-five days.
-    You can solve the puzzle and provide an answer using the language of your choice.
+---
 
-[aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
-[github]: https://github.com/ahmed-madhoun1
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
-[kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
-[template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+## **📂 Directory Structure**  
+The repository is organized as follows:
+
+├── Easy/         # Solutions for easy problems
+├── Medium/       # Solutions for medium problems
+├── Hard/         # Solutions for hard problems
+└── README.md     # This file
+
+---
+
+## **🤝 How to Contribute**  
+Contributions are welcome! If you’d like to add solutions, suggest improvements, or report issues, feel free to create a pull request or open an issue.  
+
+---
+
+## **🔗 Connect with Me**  
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/)  
+- **GitHub**: [Your Profile](https://github.com/)  
+
+Happy Coding! 👨‍💻✨
