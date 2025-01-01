@@ -34,8 +34,7 @@ Contributions are welcome! If you’d like to add solutions, suggest improvement
 ---
 
 ## **🔗 Connect with Me**  
-- **LinkedIn**: [Your Profile](www.linkedin.com/in/
-ahmed-madhoun1)  
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/ahmed-madhoun1)  
 - **GitHub**: [Your Profile](https://github.com/ahmed-madhoun1)  
 
 Happy Coding! 👨‍💻✨
